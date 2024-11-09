@@ -74,3 +74,7 @@ def send_telemetry_to_iothub():
 while True:
     send_telemetry_to_iothub()
     time.sleep(8)  
+
+
+
+# 
